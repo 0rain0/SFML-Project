@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\main.cpp(29,12): warning C4244: '引數': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\main.cpp(96,22): warning C4018: '<': signed/unsigned 不相符
+  SnakeGame.vcxproj -> D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\SnakeGame.exe

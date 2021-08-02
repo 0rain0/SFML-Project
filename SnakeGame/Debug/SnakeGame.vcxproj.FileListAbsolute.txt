@@ -1,0 +1,12 @@
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\SnakeGame.vcxproj.CopyComplete
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\SnakeGame.exe
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\SnakeGame.pdb
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\sfml-graphics-d-2.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\sfml-window-d-2.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\sfml-system-d-2.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\freetyped.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\zlibd1.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\bz2d.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\libpng16d.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\brotlidec.dll
+D:\C++ 專案開發基礎實戰\SFML-Project\SnakeGame\Debug\brotlicommon.dll
